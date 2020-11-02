@@ -1,3 +1,3 @@
 # Site Rap
 
-[confira o site clicando aqui](https://razielfp.github.io/site-rap)
+[confira o site clicando aqui](https://razielfp.github.io/site_rap)
