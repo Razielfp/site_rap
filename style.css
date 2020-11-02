@@ -1,0 +1,110 @@
+h1{
+    text-align:center;
+}
+
+h2{
+    text-align:center;
+}
+
+h3{
+    text-align:right;
+}
+
+h4{
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+.imagem1{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imagem2{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fase{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:450px;
+}
+
+.logotipo{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:150px;
+}
+
+.rap{
+    margin-left: 85px;
+    margin-right: auto;
+    width:500px;
+}
+
+.yt{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:600px;
+}
+
+.ytaldeia{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:350px;
+}
+
+.history{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:350px;
+}
+
+.voltar{
+    width:50px;
+}
+
+.contatos{
+    display:block;
+    margin-left: 500px;
+    margin-right: auto;
+    width:100px;
+}
+
+.rappe{
+    display:block;
+    margin-left:auto;
+    margin-right:0px;
+    width:240px;
+}
+
+.test{
+    column-count: 3;
+    column-gap: 40px;
+}
+
+#column1 { float:left; width: 80%; background-color:white}
+#column2 { float:left; width: 10%; background-color:lightblue}
+#box1 { position:absolute; top: 50px; left: 50px; background-color:white}
+#column3{ float:left; width: 33%; background-color:white}
+
+
+.rodape{
+    background-color: whitesmoke;
+    font-family: arial;
+    text-transform: uppercase;
+    color: darkred;
+    display: flex;
+    justify-content: space-around;
+}
